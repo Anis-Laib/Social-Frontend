@@ -26,7 +26,10 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"express": "^4.18.2",
 		"flowbite-svelte-icons": "^0.4.5",
+		"socket.io": "^4.7.2",
+		"socket.io-client": "^4.7.2",
 		"svelte-french-toast": "^1.2.0",
 		"svelte-toast": "^1.0.0"
 	}
